@@ -1,0 +1,16 @@
+.info{
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    justify-content: center;
+}
+#pl{
+    width: 500px;
+}
+.mdfont{
+    font-size: 30px;
+    
+}
+.cont{
+    text-align: justify;
+}

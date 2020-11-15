@@ -6,10 +6,12 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./presentacion.component.css']
 })
 export class PresentacionComponent implements OnInit {
-
-  constructor() { }
+  info = "Creamos elAwayo para que los Emprendedores, Pequeños y Medianos Productores tengan presencia en redes sociales y puedan ofrecer sus productos en nuestras plataformas digitales ";
+  constructor() { 
+  
+  }
 
   ngOnInit(): void {
   }
-
+  
 }
